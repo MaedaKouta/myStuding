@@ -8,8 +8,9 @@
 [こちら](https://tetoblog.org/contact/)から、お問い合わせお待ちしております！
 
 # Features
-Pythonを中心とした、
-ソートアルゴリズムや通信暗号化のコードです。
+「studying」と「using」２種類に分けて記録しております（主にPythonを利用）。<br>
+studyingディレクトリは、ソートアルゴリズムや通信暗号化のソースコードなど<br>
+usingディレクトリは、メール自動化や画像サイズ自動変更などのソースコードなど<br>
 
 # Author
 * 前田 航汰
